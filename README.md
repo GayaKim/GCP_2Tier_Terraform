@@ -2,7 +2,7 @@
 <br/>
 
 ## 1️⃣Project Summary
-<img width="380" alt="gcpterraform-sum" src="https://user-images.githubusercontent.com/102592847/214774903-27461836-5f39-43f8-b550-969601de865a.png">
+<img width="450" alt="gcp-terrafrom-new" src="https://user-images.githubusercontent.com/102592847/214783806-b207f8ea-332d-42d0-9244-2877960f2219.png">
 <br/><br/>
 
 ## 2️⃣Architecture
